@@ -1,5 +1,5 @@
 html {
-    background-image: url('bg.svg');
+    /* background-image: url('bg.svg');
     background-position: center bottom; 
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -8,7 +8,8 @@ html {
     background-size: cover;
 
     width: 100vw;
-    height: 100vh;
+    height: 100vh; */
+    background-color: #333333;
 }
 
 
